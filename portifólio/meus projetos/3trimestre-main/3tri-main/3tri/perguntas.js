@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Hitória',
+    'quanto tempo durou a primeira guerra Mundial?',
+    'Durou de 1914 a 1918'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual o menor país do Mundo?',
+    'O menor país do Mundo é o Vaticano'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Tecnologia',
+    'Quando surgiou as primeiras tecnologias?',
+    'As primeiras invenções consideradas tecnológicas datam de dois milhões de anos antes de Cristo'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Conhecimentos Gerai',
+    'Qual a lingua mais falada no Mundo?',
+    'Inglês, com 1,268 millhôes de falantes'
 )
